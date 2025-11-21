@@ -70,8 +70,8 @@ Users can register with an email and password or sign in to their existing accou
 CampusArena manages its own accounts; UH authentication is **not** required.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/mnt/data/Sign_in.jpeg" width="350" />
-  <img src="/mnt/data/Sign_up.jpeg" width="350" />
+  <img src="img/Sign_in.jpeg" width="350" />
+  <img src="img/Sign_up.jpeg" width="350" />
 </div>
 
 ### Home Dashboard
