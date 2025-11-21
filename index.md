@@ -4,7 +4,10 @@
 
 📄 **[Team Contract](https://docs.google.com/document/d/1myrrUoQkdv6lsjwyFxRFWcjMTkhilMW4fPg73qIhYT0/edit?tab=t.0)**
 
-    
+📄 **[Milestone 1 Project Board](https://github.com/orgs/campusarena/projects/1)**
+
+📄 **[Milestone 2 Project Board](https://github.com/orgs/campusarena/projects/2)**
+
 ## Table of contents
 
 * [Overview](#overview)
