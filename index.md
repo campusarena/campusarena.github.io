@@ -69,6 +69,11 @@ The landing page welcomes users and shows current public tournaments and leagues
 Users can register with an email and password or sign in to their existing account.  
 CampusArena manages its own accounts; UH authentication is **not** required.
 
+<div style="display: flex; gap: 10px;">
+  <img src="/mnt/data/Sign_in.jpeg" width="350" />
+  <img src="/mnt/data/Sign_up.jpeg" width="350" />
+</div>
+
 ### Home Dashboard
 
 After signing in, users are taken to their personal dashboard showing:
@@ -76,6 +81,8 @@ After signing in, users are taken to their personal dashboard showing:
 * Active tournaments or leagues they’ve joined  
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
+
+<img src="img/Dashboard.png" width="450" alt="Dashboard">
 
 ### Create Event Page
 
@@ -88,15 +95,21 @@ Users can create new **tournament** or **seasonal league** groups by specifying:
 
 Once created, others can join the event through a simple link or join code.
 
+
 ### Match Page
 
 Displays match details including participants, scores, and scheduled time.  
 After the match concludes, results can be submitted and verified by the opponent or organizer.
 
+<img src="img/Matchup_page.jpeg" width="450" alt="Match Page">
+
+
 ### Standings Page
 
 Shows the leaderboard or bracket depending on event type.  
 Leagues display win/loss records and custom MMR-based rankings, while tournaments show bracket progression.
+
+<img src="img/Standing_page.png" width="450" alt="Standings Page">
 
 ---
 
