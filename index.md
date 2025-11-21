@@ -53,7 +53,7 @@ CampusArena is built with **Next.js** and can be deployed on **Vercel**, **Rende
 For this documentation site, GitHub Pages will serve the Markdown-based project overview.  
 The live web application can be linked here once deployed.
 
- **[Match Page](https://campusarena.vercel.app/match)**  
+ **[CampusArena Vercel](https://campusarena.vercel.app/match)**  
  
 ---
 
