@@ -4,7 +4,6 @@
 
 📄 **[Team Contract](https://docs.google.com/document/d/1myrrUoQkdv6lsjwyFxRFWcjMTkhilMW4fPg73qIhYT0/edit?tab=t.0)**
 
-    **[Match Page](https://campusarena.vercel.app/match)**  
     
 ## Table of contents
 
@@ -51,6 +50,8 @@ CampusArena is built with **Next.js** and can be deployed on **Vercel**, **Rende
 For this documentation site, GitHub Pages will serve the Markdown-based project overview.  
 The live web application can be linked here once deployed.
 
+ **[Match Page](https://campusarena.vercel.app/match)**  
+ 
 ---
 
 ## User Guide
