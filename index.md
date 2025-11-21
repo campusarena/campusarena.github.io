@@ -61,7 +61,7 @@ This section outlines the main pages and interactions in CampusArena.
 ### Landing Page
 
 The landing page welcomes users and shows current public tournaments and leagues available to join.
-
+![Landing Page](img/Landing_page.png) 
 ### Sign In and Sign Up
 
 Users can register with an email and password or sign in to their existing account.  
