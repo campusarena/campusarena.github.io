@@ -1,5 +1,12 @@
 # CampusArena
 
+📌 **GitHub Repository (Next.js App):**  
+https://github.com/campusarena
+
+📄 **Team Contract:**  
+https://docs.google.com/document/d/1myrrUoQkdv6lsjwyFxRFWcjMTkhilMW4fPg73qIhYT0/edit?tab=t.0
+
+
 ## Table of contents
 
 * [Overview](#overview)
