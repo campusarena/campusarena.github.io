@@ -103,7 +103,7 @@ Users can create new **tournament** or **seasonal league** groups by specifying:
 
 Once created, others can join the event through a simple link or join code.
 
-<img src="img/Event_page.png" width="450" alt="Match Page">
+<img src="img/Event_page.png" width="450" alt="Event Page">
 
 
 ### Match Page
@@ -111,7 +111,7 @@ Once created, others can join the event through a simple link or join code.
 Displays match details including participants, scores, and scheduled time.  
 After the match concludes, results can be submitted and verified by the opponent or organizer.
 
-<img src="img/Match_page1.png" width="450" alt="Match Page">
+<img src="img/New_MatchPage.jpg" width="450" alt="Match Page">
 
 
 ### Standings Page
