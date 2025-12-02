@@ -7,6 +7,8 @@
 📄 **[Milestone 1 Project Board](https://github.com/orgs/campusarena/projects/1)**
 
 📄 **[Milestone 2 Project Board](https://github.com/orgs/campusarena/projects/2)**
+    
+📄 **[Milestone 3 Project Board](https://github.com/orgs/campusarena/projects/3)**
 
 ## Table of contents
 
