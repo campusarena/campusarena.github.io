@@ -1,5 +1,7 @@
 # CampusArena
 
+[![ci-campusarena](https://github.com/campusarena/campusarena/actions/workflows/ci.yml/badge.svg)](https://github.com/campusarena/campusarena/actions/workflows/ci.yml)
+
 📌 **[GitHub Organization](https://github.com/campusarena)**
 
 📄 **[Team Contract](https://docs.google.com/document/d/1myrrUoQkdv6lsjwyFxRFWcjMTkhilMW4fPg73qIhYT0/edit?tab=t.0)**
