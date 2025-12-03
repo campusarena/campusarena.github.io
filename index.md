@@ -111,7 +111,7 @@ Once created, others can join the event through a simple link or join code.
 Displays match details including participants, scores, and scheduled time.  
 After the match concludes, results can be submitted and verified by the opponent or organizer.
 
-<img src="img/New_MatchPage.jpeg" width="450" alt="Match Page">
+<img src="img/Screenshot_2-12-2025_184458_campusarena.vercel.app.jpeg" width="450" alt="Match Page">
 
 
 ### Standings Page
