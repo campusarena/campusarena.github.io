@@ -110,8 +110,7 @@ Once created, others can join the event through a simple link or join code.
 
 ### Match Page
 
-Displays the match details like players, scores, and the scheduled time.
-After the match ends, a player can submit the results. Once submitted, the match is locked, and no more edits can be made. The player must wait for the opponent or an admin to verify and approve the results.
+Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
 <img src="img/Screenshot_8-12-2025_163530_campusarena.vercel.app.jpeg" width="350" alt="Match Page">
 <img src="img/Screenshot_8-12-2025_163550_campusarena.vercel.app.jpeg" width="350" alt="Match Page">
