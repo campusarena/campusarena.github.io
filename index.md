@@ -114,6 +114,8 @@ Displays the match details like players, scores, and the scheduled time.
 After the match ends, a player can submit the results. Once submitted, the match is locked, and no more edits can be made. The player must wait for the opponent or an admin to verify and approve the results.
 
 <img src="img/Screenshot_8-12-2025_163530_campusarena.vercel.app.jpeg" width="450" alt="Match Page">
+<img src="img/Screenshot_8-12-2025_163550_campusarena.vercel.app.jpeg" width="450" alt="Match Page">
+
 
 
 ### Standings Page
