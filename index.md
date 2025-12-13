@@ -70,7 +70,7 @@ This section outlines the main pages and interactions in CampusArena.
 The landing page welcomes users and shows current public tournaments and leagues available to join.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="/img/HOME_PAGE" width="48%" />
+  <img src="/img/HOME_PAGE.jpeg" width="48%" />
   <img src="/img/Landing_page2.png" width="48%" />
 </div>
 
@@ -81,7 +81,7 @@ CampusArena manages its own accounts; UH authentication is **not** required.
 
 <div style="display: flex; gap: 10px;">
   <img src="img/Sign_in.jpeg" width="350" />
-  <img src="img/SIGN_UP.jpeg" width="350" />
+  <img src="img/SIGNUP_PAGE.jpeg" width="350" />
 </div>
 
 ### Home Dashboard
@@ -92,7 +92,7 @@ After signing in, users are taken to their personal dashboard showing:
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
 
-<img src="img/DASH_PAGE.png" width="450" alt="Dashboard">
+<img src="img/DASH_PAGE.jpeg" width="450" alt="Dashboard">
 
 ### Create Event Page
 
@@ -105,7 +105,7 @@ Users can create new **tournament** or **seasonal league** groups by specifying:
 
 Once created, others can join the event through a simple link or join code.
 
-<img src="img/EVENT_PAGE.png" width="450" alt="Event Page">
+<img src="img/EVENTS_PAGE.jpeg" width="450" alt="Event Page">
 
 
 ### Match Page
