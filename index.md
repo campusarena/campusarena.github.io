@@ -70,7 +70,7 @@ This section outlines the main pages and interactions in CampusArena.
 The landing page welcomes users and shows current public tournaments and leagues available to join.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="/img/Landing_page.png" width="48%" />
+  <img src="/img/HOME_PAGE" width="48%" />
   <img src="/img/Landing_page2.png" width="48%" />
 </div>
 
@@ -81,7 +81,7 @@ CampusArena manages its own accounts; UH authentication is **not** required.
 
 <div style="display: flex; gap: 10px;">
   <img src="img/Sign_in.jpeg" width="350" />
-  <img src="img/Sign_up.jpeg" width="350" />
+  <img src="img/SIGN_UP.jpeg" width="350" />
 </div>
 
 ### Home Dashboard
@@ -92,7 +92,7 @@ After signing in, users are taken to their personal dashboard showing:
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
 
-<img src="img/Dashboard.png" width="450" alt="Dashboard">
+<img src="img/DASH_PAGE.png" width="450" alt="Dashboard">
 
 ### Create Event Page
 
@@ -105,15 +105,15 @@ Users can create new **tournament** or **seasonal league** groups by specifying:
 
 Once created, others can join the event through a simple link or join code.
 
-<img src="img/Event_page.png" width="450" alt="Event Page">
+<img src="img/EVENT_PAGE.png" width="450" alt="Event Page">
 
 
 ### Match Page
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
-<img src="img/Screenshot_8-12-2025_163530_campusarena.vercel.app.jpeg" width="350" alt="Match Page">
-<img src="img/Screenshot_8-12-2025_163550_campusarena.vercel.app.jpeg" width="350" alt="Match Page">
+<img src="img/MATCH_PAGE.jpeg" width="350" alt="Match Page">
+
 
 
 
