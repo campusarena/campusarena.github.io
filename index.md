@@ -71,7 +71,7 @@ The landing page welcomes users and shows current public tournaments and leagues
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="/img/LANDING_PAGE1.jpeg" width="48%" />
-  <img src="/img/LANDING_PAGE_2.jpeg" width="48%" />
+  <img src="/img/LANDINGPAGE_2.jpeg" width="48%" />
 </div>
 
 ### Sign In and Sign Up
@@ -79,8 +79,8 @@ Users can register with an email and password or sign in to their existing accou
 CampusArena manages its own accounts; UH authentication is not required.
 
 <div style="display: flex; gap: 10px;">
-  <img src="img/Sign_in.jpeg" width="400" />
-  <img src="img/SIGNUP.jpeg" width="430" />
+  <img src="img/Sign_in.jpeg" width="48%" />
+  <img src="img/SIGNUP.jpeg" width="48%" />
 </div>
 
 After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
@@ -96,7 +96,7 @@ After signing in, users are taken to their personal dashboard showing:
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
 
-<img src="img/DASH_PAGE.jpeg" width="450" alt="Dashboard">
+<img src="img/DASH_PAGE.jpeg" width="500" alt="Dashboard">
 
 ## Features Overview
 
