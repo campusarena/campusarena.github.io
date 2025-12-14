@@ -109,16 +109,19 @@ CampusArena provides tools that simplify organizing and participating in competi
 
 <img src="img/FEATURES_PAGE.jpeg" width="450" alt="Dashboard">
 
-### Create Event Page
+## Create and Browse Events
 
-Users can create new **tournament** or **seasonal league** groups by specifying:
-
-* Event name and description  
-* Format (round robin, double elimination, Swiss, ranked ladder, etc.)  
-* Start and end dates  
-* Number of players or teams  
-
-Once created, others can join the event through a simple join code.
+Users can browse public tournaments and leagues through the Browse Events page
+**Browse Events allows users to:**
+    *  View available sports and esports competitions
+    *  See event details such as format, date, and participant count
+    *  Join public events directly
+**Users can also create new tournaments or seasonal leagues by specifying:**
+    * Event name and description
+    * Format (round robin, double elimination, Swiss, ranked ladder, etc.)
+    * Start and end dates
+    * Number of players or teams
+**Once created, others can join the event through a simple join code or link**
 
 <div style="display: flex; gap: 10px;">
   <img src="img/CREATE_EVENT.jpeg" width="350" />
