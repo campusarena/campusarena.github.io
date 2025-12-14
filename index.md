@@ -148,6 +148,11 @@ Leagues display win/loss records and custom MMR-based rankings, while tournament
 
 Archived events and matches allow users to view completed tournaments, leagues, and verified match results. These pages provide historical records while keeping active events and matches uncluttered.
 
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="/img/ARHICE_PAGE.jpeg" width="48%" />
+  <img src="/img/ARCHIVE_EVENTS.jpeg" width="48%" />
+</div>
+
 ## Admin Pages
 
 CampusArena includes administrative functionality accessible only to users with admin privileges.
@@ -158,7 +163,10 @@ Administrators can:
 * Monitor and manage ELO ratings
 These tools help maintain fair play, accurate records, and platform integrity.
 
-
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src="/img/ADMIN_DASH.jpeg" width="48%" />
+  <img src="/img/ADMIN_DASH2.jpeg" width="48%" />
+</div>
 ---
 
 ## Community Feedback
@@ -233,17 +241,6 @@ Milestone summaries and links to project boards will be added here as the projec
 
 GitHub Actions automatically runs build and lint checks on each push to the main branch.  
 The configuration file is located at `.github/workflows/ci.yml`.
-
----
-
-## Walkthrough videos
-
-Walkthrough videos will be published as development progresses, including:
-
-* Creating a tournament  
-* Joining and managing a league  
-* Submitting and verifying match results  
-* Viewing standings and rankings  
 
 ---
 
