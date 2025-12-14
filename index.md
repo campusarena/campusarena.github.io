@@ -80,12 +80,12 @@ CampusArena manages its own accounts; UH authentication is not required.
 
 <div style="display: flex; gap: 10px;">
   <img src="img/Sign_in.jpeg" width="350" />
-  <img src="img/SIGNUP.jpeg" width="350" />
+  <img src="img/SIGNUP.jpeg" width="430" />
 </div>
 
 After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
 
-<img src="PROFILE_PAGE.jpeg" width="450" alt="Dashboard">
+<img src="img/PROFILE_PAGE.jpeg" width="450" alt="Dashboard">
 
 
 ### Home Dashboard
