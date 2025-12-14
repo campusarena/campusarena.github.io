@@ -96,7 +96,7 @@ After signing in, users are taken to their personal dashboard showing:
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
 
-<img src="img/DASH_PAGE.jpeg" width="550px" alt="Dashboard">
+<img src="img/DASH_PAGE.jpeg" style="width: 700px; height: auto;" alt="Dashboard">
 
 ## Create and Browse Events
 Users can browse public tournaments and leagues through the **Browse Events** page
@@ -123,7 +123,7 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
-<img src="img/MATCH_PAGE.jpeg" width="60%" alt="Match Page">
+<<img src="img/MATCH_PAGE.jpeg" style="width: 500px; height: 450px; object-fit: cover;" />
 
 
 ### Standings Page
