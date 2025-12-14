@@ -117,12 +117,13 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
   * Join public events directly
   
  <img src="img/EVENTS_PAGE.jpeg" width="450">
-* **Users can also create new tournaments or seasonal leagues by specifying:**
+ 
+ **Users can also create new tournaments or seasonal leagues by specifying:**
   * Event name and description
   * Format (round robin, double elimination, Swiss, ranked ladder, etc.)
   * Start and end dates
   * Number of players or teams
-* Once created, others can join the event through a simple join code or link
+ Once created, others can join the event through a simple join code or link
 
 <div style="display: flex; gap: 10px;">
   <img src="img/CREATE_EVENT.jpeg" style="width: 350px; height: 450px; object-fit: cover;" />
