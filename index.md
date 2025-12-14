@@ -130,15 +130,11 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
   <img src="img/JOIN_EVENT.jpeg" style="width: 500px; height: 450px; object-fit: cover;" />
 </div>
 
-
-
-
 ### Match Page
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
 <img src="img/MATCH_PAGE.jpeg" width="400px" alt="Match Page">
-
 
 
 ### Standings Page
@@ -151,11 +147,6 @@ Leagues display win/loss records and custom MMR-based rankings, while tournament
 ## Archived Events and Matches
 
 Archived events and matches allow users to view completed tournaments, leagues, and verified match results. These pages provide historical records while keeping active events and matches uncluttered.
-
-<div style="display: flex; gap: 10px;">
-  <img src="img/ARHICE_PAGE.jpeg" width="350" />
-  <img src="img/ARCIVE_MATCH.jpeg" width="350" />
-</div
 
 ## Admin Pages
 
