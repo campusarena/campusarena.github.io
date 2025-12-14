@@ -110,23 +110,28 @@ CampusArena provides tools that simplify organizing and participating in competi
 <img src="img/FEATURES_PAGE.jpeg" width="450" alt="Dashboard">
 
 ## Create and Browse Events
-
-Users can browse public tournaments and leagues through the Browse Events page
-**Browse Events allows users to:**
-    *  View available sports and esports competitions
-    *  See event details such as format, date, and participant count
-    *  Join public events directly
-**Users can also create new tournaments or seasonal leagues by specifying:**
-    * Event name and description
-    * Format (round robin, double elimination, Swiss, ranked ladder, etc.)
-    * Start and end dates
-    * Number of players or teams
-**Once created, others can join the event through a simple join code or link**
-
+* Users can browse public tournaments and leagues through the **Browse Events** page
+* **Browse Events allows users to:**
+  * View available sports and esports competitions
+  * See event details such as format, date, and participant count
+  * Join public events directly
+  * 
+    <div style="display: flex; gap: 10px;">
+  <img src="img/EVENTS_PAGE.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+  <img src="img/EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+</div>
+* **Users can also create new tournaments or seasonal leagues by specifying:**
+  * Event name and description
+  * Format (round robin, double elimination, Swiss, ranked ladder, etc.)
+  * Start and end dates
+  * Number of players or teams
+* Once created, others can join the event through a simple join code or link
 <div style="display: flex; gap: 10px;">
-  <img src="img/CREATE_EVENT.jpeg" width="350" />
-  <img src="img/JOIN_EVENT.jpeg" width="350" />
-</div
+  <img src="img/CREATE_EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+  <img src="img/JOIN_EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+</div>
+
+
 
 
 ### Match Page
