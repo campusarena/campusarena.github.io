@@ -85,7 +85,7 @@ CampusArena manages its own accounts; UH authentication is not required.
 
 After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
 
-<img src="img/PROFILE_PAGE.jpeg" width="48%" alt="Dashboard">
+<img src="img/PROFILE_PAGE.jpeg" width="48%" alt="Profile Page">
 
 
 ### Home Dashboard
@@ -105,7 +105,8 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
   * See event details such as format, date, and participant count
   * Join public events directly
   
- <img src="img/EVENTS_PAGE.jpeg" width="450">
+<img src="img/EVENTS_PAGE.jpeg" style="width: 800px; height: auto;" alt="Browse Events">
+
  
  **Users can also create new tournaments or seasonal leagues by specifying:**
   * Event name and description
@@ -123,7 +124,8 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
-<<img src="img/MATCH_PAGE.jpeg" style="width: 500px; height: 450px; object-fit: cover;" />
+<img src="img/MATCH_PAGE.jpeg" style="width: 800px; height: auto;" alt="Match page">
+
 
 
 ### Standings Page
