@@ -161,9 +161,14 @@ These tools help maintain fair play, accurate records, and platform integrity.
 ---
 
 ## Community Feedback
+We received feedback from five users who tested the CampusArena app. The main suggestions focused on improving the user interface and usability:
+* **Dashboard Improvements:** Users suggested making the dashboard cards wider (Issue #122) and adding more information to the event cards (Issue #125) to make event details easier to scan.
+* **Event Page Enhancements:** They recommended adding visual effects to highlight winners and implementing first, second, and third placements on the event page (Issue #123).
+* **Event Sorting:** Users requested changing the default event sorting to prioritize win/loss records (Issue #124) and fixing public event sorting by capacity to prioritize emptier events (Issue #136).
+* **Tournament Features:** One suggestion was to implement double elimination tournaments and fix the bracket graphic in the event details page (Issue #141).
 
-We welcome feedback and suggestions from students and participants.  
-A feedback form link will be added once the initial deployment is live.
+Overall, this feedback helped us identify key areas for UI improvements and functional enhancements, which we have implemented, and we highly encourage gathering more user feedback to continue refining the app.
+
 
 ---
 
