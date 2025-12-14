@@ -70,8 +70,8 @@ This section outlines the main pages and interactions in CampusArena.
 The landing page welcomes users and shows current public tournaments and leagues available to join. Users can browse upcoming competitions or navigate to create a new event.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="/img/HOME_PAGE.jpeg" width="48%" />
-  <img src="/img/Landing_page2.png" width="48%" />
+  <img src="/img/LANDING_PAGE1.jpeg" width="48%" />
+  <img src="/img/LANDING_PAGE2.jpeg" width="48%" />
 </div>
 
 ### Sign In and Sign Up
@@ -80,12 +80,12 @@ CampusArena manages its own accounts; UH authentication is not required.
 
 <div style="display: flex; gap: 10px;">
   <img src="img/Sign_in.jpeg" width="350" />
-  <img src="img/SIGNUP_PAGE.jpeg" width="350" />
+  <img src="img/SIGNUP.jpeg" width="350" />
 </div>
 
 After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
 
-<img src=".jpeg" width="450" alt="Dashboard">
+<img src="PROFILE_PAGE.jpeg" width="450" alt="Dashboard">
 
 
 ### Home Dashboard
@@ -147,7 +147,7 @@ Leagues display win/loss records and custom MMR-based rankings, while tournament
 Archived events and matches allow users to view completed tournaments, leagues, and verified match results. These pages provide historical records while keeping active events and matches uncluttered.
 
 <div style="display: flex; gap: 10px;">
-  <img src="imgARHICE_PAGE.jpeg" width="350" />
+  <img src="img/ARHICE_PAGE.jpeg" width="350" />
   <img src="img/ARCIVE_MATCH.jpeg" width="350" />
 </div
 
@@ -161,7 +161,10 @@ Administrators can:
 * Monitor and manage ELO ratings
 These tools help maintain fair play, accurate records, and platform integrity.
 
-<img src="img/ADMIN_DASHBOARD.jpeg" width="450" alt="Admin Dashboard">
+<div style="display: flex; gap: 10px;">
+  <img src="img/ADMIN_DASH1.jpeg" width="350" />
+  <img src="img/ADMIN_DASH2.jpeg" width="350" />
+</div
 ---
 
 ## Community Feedback
