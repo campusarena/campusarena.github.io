@@ -21,7 +21,6 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
 * [Example enhancements](#example-enhancements)
 * [Team](#team)
 
@@ -125,15 +124,6 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
 <img src="img/MATCH_PAGE.jpeg" style="width: 800px; height: auto;" alt="Match page">
-
-
-
-### Standings Page
-
-Shows the leaderboard or bracket depending on event type.  
-Leagues display win/loss records and custom MMR-based rankings, while tournaments show bracket progression.
-
-<img src="img/Standing_page.png" width="450px" alt="Standings Page">
 
 ## Archived Events and Matches
 
