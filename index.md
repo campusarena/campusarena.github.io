@@ -158,10 +158,7 @@ Administrators can:
 * Monitor and manage ELO ratings
 These tools help maintain fair play, accurate records, and platform integrity.
 
-<div style="display: flex; gap: 10px;">
-  <img src="img/ADMIN_DASH1.jpeg" width="350" />
-  <img src="img/ADMIN_DASH2.jpeg" width="350" />
-</div
+
 ---
 
 ## Community Feedback
