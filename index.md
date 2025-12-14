@@ -43,7 +43,7 @@ CampusArena illustrates technologies and design patterns useful to ICS software 
 It also demonstrates several important concepts:
 
 * Event creation and management through **user-generated groups**.
-* Multiple competition formats such as **round robin**, **double elimination**, and **Swiss**.
+* Multiple competition formats such as **signle elimination** and **double elimination**
 * Support for both **short-term tournaments** and **seasonal league play**.
 * User authentication handled internally by CampusArena (no UH credentials required).
 * Role-based functionality for participants, organizers, and administrators.
@@ -67,7 +67,7 @@ This section outlines the main pages and interactions in CampusArena.
 
 ### Landing Page
 
-The landing page welcomes users and shows current public tournaments and leagues available to join.
+The landing page welcomes users and shows current public tournaments and leagues available to join. Users can browse upcoming competitions or navigate to create a new event.
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="/img/HOME_PAGE.jpeg" width="48%" />
@@ -75,14 +75,18 @@ The landing page welcomes users and shows current public tournaments and leagues
 </div>
 
 ### Sign In and Sign Up
-
-Users can register with an email and password or sign in to their existing account.  
-CampusArena manages its own accounts; UH authentication is **not** required.
+Users can register with an email and password or sign in to their existing account.
+CampusArena manages its own accounts; UH authentication is not required.
 
 <div style="display: flex; gap: 10px;">
   <img src="img/Sign_in.jpeg" width="350" />
   <img src="img/SIGNUP_PAGE.jpeg" width="350" />
 </div>
+
+After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
+
+<img src=".jpeg" width="450" alt="Dashboard">
+
 
 ### Home Dashboard
 
@@ -94,6 +98,17 @@ After signing in, users are taken to their personal dashboard showing:
 
 <img src="img/DASH_PAGE.jpeg" width="450" alt="Dashboard">
 
+## Features Overview
+
+CampusArena provides tools that simplify organizing and participating in competitions, including:
+* Event creation with configurable formats and settings
+* Automatic bracket generation, scheduling, and seeding
+* Dedicated match pages with check-in and score reporting
+* Organizer and admin verification of match results
+* Live standings, rankings, and bracket progression
+
+<img src="img/FEATURES_PAGE.jpeg" width="450" alt="Dashboard">
+
 ### Create Event Page
 
 Users can create new **tournament** or **seasonal league** groups by specifying:
@@ -103,9 +118,12 @@ Users can create new **tournament** or **seasonal league** groups by specifying:
 * Start and end dates  
 * Number of players or teams  
 
-Once created, others can join the event through a simple link or join code.
+Once created, others can join the event through a simple join code.
 
-<img src="img/EVENTS_PAGE.jpeg" width="450" alt="Event Page">
+<div style="display: flex; gap: 10px;">
+  <img src="img/CREATE_EVENT.jpeg" width="350" />
+  <img src="img/JOIN_EVENT.jpeg" width="350" />
+</div
 
 
 ### Match Page
@@ -124,6 +142,26 @@ Leagues display win/loss records and custom MMR-based rankings, while tournament
 
 <img src="img/Standing_page.png" width="450" alt="Standings Page">
 
+## Archived Events and Matches
+
+Archived events and matches allow users to view completed tournaments, leagues, and verified match results. These pages provide historical records while keeping active events and matches uncluttered.
+
+<div style="display: flex; gap: 10px;">
+  <img src="imgARHICE_PAGE.jpeg" width="350" />
+  <img src="img/ARCIVE_MATCH.jpeg" width="350" />
+</div
+
+## Admin Pages
+
+CampusArena includes administrative functionality accessible only to users with admin privileges.
+Administrators can:
+* Verify or reject match results
+* Manage users and assign roles
+* Moderate events and participants
+* Monitor and manage ELO ratings
+These tools help maintain fair play, accurate records, and platform integrity.
+
+<img src="img/ADMIN_DASHBOARD.jpeg" width="450" alt="Admin Dashboard">
 ---
 
 ## Community Feedback
