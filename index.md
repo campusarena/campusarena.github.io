@@ -117,8 +117,8 @@ CampusArena provides tools that simplify organizing and participating in competi
   * Join public events directly
   * 
     <div style="display: flex; gap: 10px;">
-  <img src="img/EVENTS_PAGE.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
-  <img src="img/EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+  <img src="img/EVENTS_PAGE.jpeg" style="width: 400px; height: 300px; object-fit: cover;" />
+  <img src="img/EVENT.jpeg" style="width: 400px; height: 300px; object-fit: cover;" />
 </div>
 * **Users can also create new tournaments or seasonal leagues by specifying:**
   * Event name and description
@@ -127,8 +127,8 @@ CampusArena provides tools that simplify organizing and participating in competi
   * Number of players or teams
 * Once created, others can join the event through a simple join code or link
 <div style="display: flex; gap: 10px;">
-  <img src="img/CREATE_EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
-  <img src="img/JOIN_EVENT.jpeg" style="width: 350px; height: 220px; object-fit: cover;" />
+  <img src="img/CREATE_EVENT.jpeg" style="width: 400px; height: 300px; object-fit: cover;" />
+  <img src="img/JOIN_EVENT.jpeg" style="width:  400px; height: 300px; object-fit: cover;" />
 </div>
 
 
