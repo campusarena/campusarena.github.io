@@ -85,7 +85,7 @@ CampusArena manages its own accounts; UH authentication is not required.
 
 After signing in, users have access to a profile page where they can view account information, track joined events, and review match history and results.
 
-<img src="img/PROFILE_PAGE.jpeg" width="500" alt="Dashboard">
+<img src="img/PROFILE_PAGE.jpeg" width="48%" alt="Dashboard">
 
 
 ### Home Dashboard
@@ -96,18 +96,7 @@ After signing in, users are taken to their personal dashboard showing:
 * Upcoming matches and recent results  
 * Options to create new events or join existing ones
 
-<img src="img/DASH_PAGE.jpeg" width="500" alt="Dashboard">
-
-## Features Overview
-
-CampusArena provides tools that simplify organizing and participating in competitions, including:
-* Event creation with configurable formats and settings
-* Automatic bracket generation, scheduling, and seeding
-* Dedicated match pages with check-in and score reporting
-* Organizer and admin verification of match results
-* Live standings, rankings, and bracket progression
-
-<img src="img/FEATURE_PAGE.jpeg" width="450">
+<img src="img/DASH_PAGE.jpeg" width="550px" alt="Dashboard">
 
 ## Create and Browse Events
 Users can browse public tournaments and leagues through the **Browse Events** page
@@ -134,7 +123,7 @@ Users can browse public tournaments and leagues through the **Browse Events** pa
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
-<img src="img/MATCH_PAGE.jpeg" width="400px" alt="Match Page">
+<img src="img/MATCH_PAGE.jpeg" width="60%" alt="Match Page">
 
 
 ### Standings Page
@@ -142,7 +131,7 @@ Each match now has its own dedicated page, and players can check in before start
 Shows the leaderboard or bracket depending on event type.  
 Leagues display win/loss records and custom MMR-based rankings, while tournaments show bracket progression.
 
-<img src="img/Standing_page.png" width="450" alt="Standings Page">
+<img src="img/Standing_page.png" width="450px" alt="Standings Page">
 
 ## Archived Events and Matches
 
@@ -208,19 +197,21 @@ CampusArena uses a modular Next.js structure:
 
 Key design ideas:
 
-* Clean separation between **events**, **matches**, and **results**.  
-* Organizer-controlled event creation, participant management, and score verification.  
-* Extensible data model to support both sports and esports events.
+* Clean separation between **users**, **tournaments**, **paricipants**, **teams**, **matches**, **ratings**
+*Admins and organizers manage tournament creation, participant enrollment, team management, and scores/report verification.
+* Extensible data model to support team-based and individual competitons.
+* Support for invitations and role-based access to manage events efficiently.
 
 ### Data Model (overview)
 
-CampusArena uses a relational schema in PostgreSQL including:
+CampusArena uses a **PostgreSQL relation schema** to manage tournaments, participants, and matches:
 
 * **Users** – participants and organizers  
 * **Events** – tournaments or seasonal leagues  
-* **Matches** – scheduled pairings and results  
+* **Matches** – scheduled pairings, scores, and bracekt info
 * **Participants** – linking users to events  
-* **Ratings** – MMR and statistical summaries for leagues
+* **PlayerGameRating** - manages tournament invites
+* **Invitaion** - manages tournament invites
 
 ---
 
@@ -244,7 +235,7 @@ The configuration file is located at `.github/workflows/ci.yml`.
 
 ---
 
-## Example enhancements
+## Enhancements
 
 Future improvements and experimental ideas include:
 
