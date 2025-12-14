@@ -107,10 +107,10 @@ CampusArena provides tools that simplify organizing and participating in competi
 * Organizer and admin verification of match results
 * Live standings, rankings, and bracket progression
 
-<img src="img/FEATURES_PAGE.jpeg" width="450" alt="Dashboard">
+<img src="img/FEATURE_PAGE.jpeg" width="450">
 
 ## Create and Browse Events
-* Users can browse public tournaments and leagues through the **Browse Events** page
+Users can browse public tournaments and leagues through the **Browse Events** page
 * **Browse Events allows users to:**
   * View available sports and esports competitions
   * See event details such as format, date, and participant count
@@ -123,6 +123,7 @@ CampusArena provides tools that simplify organizing and participating in competi
   * Start and end dates
   * Number of players or teams
 * Once created, others can join the event through a simple join code or link
+
 <div style="display: flex; gap: 10px;">
   <img src="img/CREATE_EVENT.jpeg" style="width: 350px; height: 450px; object-fit: cover;" />
   <img src="img/JOIN_EVENT.jpeg" style="width: 500px; height: 450px; object-fit: cover;" />
@@ -135,8 +136,7 @@ CampusArena provides tools that simplify organizing and participating in competi
 
 Each match now has its own dedicated page, and players can check in before starting. After checking in, they can enter the match and report their score when it’s finished. Once results are submitted, the match becomes locked and can’t be changed. The player then waits for their opponent or an admin to review and approve the score.
 
-<img src="img/MATCH_PAGE.jpeg" width="350" alt="Match Page">
-
+<img src="img/MATCH_PAGE.jpeg" width="400px" alt="Match Page">
 
 
 
