@@ -115,11 +115,8 @@ CampusArena provides tools that simplify organizing and participating in competi
   * View available sports and esports competitions
   * See event details such as format, date, and participant count
   * Join public events directly
-  * 
-    <div style="display: flex; gap: 10px;">
-  <img src="img/EVENTS_PAGE.jpeg" style="width: 500px; height: 450px; object-fit: cover;" />
-  <img src="img/EVENT.jpeg" style="width: 350px; height: 450px; object-fit: cover;" />
-</div>
+  
+ <img src="img/EVENTS_PAGE.jpeg" width="450">
 * **Users can also create new tournaments or seasonal leagues by specifying:**
   * Event name and description
   * Format (round robin, double elimination, Swiss, ranked ladder, etc.)
